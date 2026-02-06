@@ -1,0 +1,2 @@
+# Requires: future-unlikelihood
+# (Not available on PyPI)
